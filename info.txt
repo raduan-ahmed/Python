@@ -1,0 +1,26 @@
+**Introduction**
+>Pythonis an interpreted, interactive, object-oriented, and 
+high-level programming language developed in early 90’s. 
+
+>Pythonis a general purpose programming language that is 
+often applied in scripting roles.
+
+>Pythonisdesigned to be highly readable. It uses English 
+keywords frequently whereas other languages use 
+punctuation, and it has fewer syntactical constructions than 
+other languages.
+
+
+**History**
+>Invented in the Netherlands, early 90s by Guido 
+van Rossum. Python was conceptualized in the 
+late 1980s and its implementation was started in 
+December 1989. 
+
+>Guido Van Rossum is fan of ‘Monty Python’s 
+Flying Circus’, a famous TV show in Netherlands, 
+So he named Python after Monty Python. 
+
+>Nearly all known Python software initially
+developed by Guido van Rossum and released in 
+1991.
